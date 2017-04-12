@@ -1,1 +1,3 @@
 # Processo-Financeiro
+
+Para as tabelas serem criadas pelo Liquibase é necessário criar no PgAdmin uma database com o nome de processofinanceiro.
